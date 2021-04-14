@@ -35,7 +35,7 @@ def durchgefallen(ergebnis):
     elif ergebnis < 10:
         print("Kann man machen, muss man aber nicht!")
     else :
-        print("Danke Herr Macht, Sie haben uns gerettet! ")
+        print("Super! Der Durchschnitt ist amazing! ")
 
 
 def main():
